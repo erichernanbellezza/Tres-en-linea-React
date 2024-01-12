@@ -1,12 +1,11 @@
 import './App.css';
-import './components/button.jsx';
-import Square from './components/button.jsx';
+import Board from './components/board.jsx';
 
 function App() {
   return (
-    <div className="App">
-      <Square/>
-    </div>
+    <>
+     <Board/>
+    </>
   );
 }
 
