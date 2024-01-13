@@ -5,6 +5,8 @@
 .square {
   background-color: rgb(255, 255, 255);
   color: #0d0c0c;
+  width: 2em;
+  height: 2em;
 }
 
 
